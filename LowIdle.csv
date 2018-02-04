@@ -1,0 +1,138 @@
+Marked,Time,Serial Bus,ID,Type,DLC,Data,CRC,Errors
+,-49.94ms,Serial1,0CF00400,Data,8,F0 FF 99 2A 1C FF FF FF,0F28,
+,?,Serial1,,,,,,Form
+,-49.32ms,Serial1,0C3,Data,12,63 B0,,Form
+,-49.08ms,Serial1,,,,,,Form
+,-48.93ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-48.74ms,Serial1,,,,,,Fo
+,?,Serial1,,,,,,Form
+,-48.34ms,Serial1,,,,,,Fo
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-47.97ms,Serial1,,,,,,Form
+,-47.92ms,Serial1,,,,,,Form
+,-47.87ms,Serial1,,,,,,Form
+,-47.82ms,Serial1,,,,,,Form
+,-47.69ms,Serial1,,,,,,Form
+,-47.48ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-47.28ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-47.09ms,Serial1,18F00F07,Data,8,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-44.90ms,Serial1,1CEBFF00,Data,8,05 C0 5D 00 00 FF FF FF,3F13,
+,-39.98ms,Serial1,0CF00300,Data,8,FF 00 20 FF 01 FF FF FF,68A6,
+,-39.40ms,Serial1,0CEFFF00,Data,8,64 06 24 7D FF FF FF FF,3766,
+,-38.82ms,Serial1,18FEF200,Data,8,1E 00 FF FF FF FF FF FF,5662,
+,-31.43ms,Serial1,0DEF06C7,Data,8,03 87,,Form
+,-31.15ms,Serial1,,,,,,Form
+,-31.10ms,Serial1,,,,,,Form
+,-31.03ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-30.83ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-30.38ms,Serial1,,,,,,Form
+,-29.94ms,Serial1,0CF00400,Data,8,F0 FF 99 20 1C FF FF FF,2C45,
+,-29.38ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-19.99ms,Serial1,0CF00300,Data,8,FF 00 20 FF 01 FF FF FF,68A6,
+,-19.42ms,Serial1,0CEFFF00,Data,8,64 06 25 7D FF FF FF FF,294A,
+,-18.84ms,Serial1,18EF0600,Data,8,64 0E E3 00 FF FF FF FF,745E,
+,?,Serial1,,,,,,Form
+,-10.75ms,Serial1,0DEF0F01,RMT,12,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-10.60ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-9.912ms,Serial1,0CF00400,Data,8,F0 FF 99 1E 1C FF FF FF,28FB,
+,-9.352ms,Serial1,,,,,,Form
+,-9.040ms,Serial1,,,,,,Form
+,-8.888ms,Serial1,,,,,,Form
+,-8.808ms,Serial1,,,,,,Form
+,-8.744ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-8.216ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-7.856ms,Serial1,,,,,,Form
+,-7.808ms,Serial1,,,,,,Form
+,-7.760ms,Serial1,,,,,,Form
+,-7.616ms,Serial1,,,,,,Form
+,-7.552ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,-7.256ms,Serial1,,,,,,Form
+,-7.208ms,Serial1,,,,,,Form
+,-7.160ms,Serial1,,,,,,Form
+,-8.000us,Serial1,0CF00300,Data,8,FF 00 20 FF 01 FF FF FF,68A6,
+,576.0us,Serial1,0CEFFF00,Data,8,64 06 27 7D FF FF FF FF,1512,
+,1.144ms,Serial1,18EFFF00,Data,8,64 10 01 01 C4 02 05 7D,6A88,
+,1.712ms,Serial1,18FED500,Data,8,FF FF FD FF FF FF FF FF,0710,
+,9.024ms,Serial1,0DEF0619,RMT,12,,00E1,CRC
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,9.408ms,Serial1,,,,,,Form
+,9.456ms,Serial1,7F6,RMT,9,,,Form
+,10.02ms,Serial1,0CF00400,Data,8,F0 FF 9A 20 1C FF FF FF,0E31,
+,10.58ms,Serial1,,,,,,Form
+,10.66ms,Serial1,,,,,,Form
+,10.90ms,Serial1,,,,,,Form
+,20.01ms,Serial1,0CF00300,Data,8,FF 00 20 FF 02 FF FF FF,4BAE,
+,20.58ms,Serial1,0CEFFF00,Data,8,64 06 25 7D FF FF FF FF,294A,
+,?,Serial1,,,,,,Form
+,29.05ms,Serial1,,,,,,Fo
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,29.39ms,Serial1,,,,,,Form
+,29.44ms,Serial1,,,,,,Form
+,30.16ms,Serial1,0CF00400,Data,8,F0 FF 99 1E 1C FF FF FF,28FB,
+,30.72ms,Serial1,,,,,,Form
+,30.78ms,Serial1,0C3,Data,12,63 B0,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,31.26ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,31.64ms,Serial1,,,,,,Form
+,31.69ms,Serial1,,,,,,Form
+,31.82ms,Serial1,,,,,,Form
+,31.89ms,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,32.42ms,Serial1,67F,RMT,3,,343E,C,Fo
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,?,Serial1,,,,,,Form
+,40.02ms,Serial1,0CF00300,Data,8,FF 00 21 FF 01 FF FF FF,768A,
+,40.60ms,Serial1,0CEFFF00,Data,8,64 06 27 7D FF FF FF FF,1512,
+,41.18ms,Serial1,18FDB300,Data,8,FF FF 10 2A FF FF FF FF,6957,
+,49.03ms,Serial1,,,,,,Form
+,49.31ms,Serial1,,,,,,Form
+,49.36ms,Serial1,,,,,,Form
+,49.41ms,Serial1,,,,,,Form
+,49.46ms,Serial1,7D6,RMT,9,,,Form
