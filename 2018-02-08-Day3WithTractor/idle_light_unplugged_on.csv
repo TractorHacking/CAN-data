@@ -1998,4 +1998,3 @@ Marked,Time,Serial Bus,ID,Type,DLC,Data,CRC,Errors
 ,8.950s,Serial1,0CF00400,Data,8,FE FF 9A 40 1C FF FF FF,35F7,
 ,8.959s,Serial1,0006F783,Data,8,01 01 FF FF FF FF FF F5,5242,
 ,8.960s,Serial1,0C000006,Data,8,30 FF FF FF F8 FF FF FF,0E0E,
-,Ÿ,Ÿ,Ÿ,Ÿ,Ÿ,Ÿ,Ÿ,Ÿ
